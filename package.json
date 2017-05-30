@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
+  "name": "ionic-newsfeed-panorama",
   "version": "0.0.0",
-  "author": "Ionic Framework",
+  "author": "Saddam Shahzad",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
